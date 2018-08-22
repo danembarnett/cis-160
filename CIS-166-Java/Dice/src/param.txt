@@ -1,0 +1,14 @@
+a big fish
+100
+a rare fish
+150
+an old shoe
+0
+an empty bottle
+25
+a small fish
+50
+a medium fish
+75
+500
+2000
